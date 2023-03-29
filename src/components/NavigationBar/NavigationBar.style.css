@@ -1,0 +1,8 @@
+.eavf-navigation-bar {
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10px, 1fr));
+  grid-template-rows: 10px;
+  justify-content: space-around;
+  gap: 8px;
+}
